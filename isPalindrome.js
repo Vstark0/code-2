@@ -11,4 +11,3 @@ const isPalindrome = (str) => {
 
 }
 console.log(isPalindrome("Racecar"))
-
